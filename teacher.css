@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+}
+body{
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+}
+.Container{
+    text-align: center;
+    margin: auto;
+    max-width: 520px;
+    height: 580px;
+    background-color:cadetblue;
+    border: black;
+    margin-top: 35px;
+}
+.form-contr1{
+    margin-bottom: 20px;
+    height: 35px;
+    text-size-adjust: 10px;
+    border: black;
+    margin-left: 35px;
+    width: 200px;
+    text-align: center;
+
+}
+.label{
+    text-align: center;
+}
+.button{
+    height: 30px;
+    width: 80px;
+}

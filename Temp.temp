@@ -1,0 +1,34 @@
+<div class="card-deck text-center" style="margin-top: 30px">
+      <div class="card bg-primary">
+         <div class="card-header" style="background-color: whitesmoke"><span style="font-size: large"><?php echo $subject;?></span></div>
+        <div class="card-body text-center">
+          <p class="card-text" style="height: 200px"></p>
+          <p class="card-text"></p>
+          <p class="card-text"></p>
+          <p class="card-text"></p>
+        </div>
+        <div class="card-footer" style="background-color: white"></div>
+      </div>
+      
+      <div class="card bg-warning">
+        <div class="card-header" style="background-color: whitesmoke"> <span style="font-size: large">MCA-602</span></div>
+        <div class="card-body text-center">
+          <p class="card-text"></p>
+        </div>
+        <div class="card-footer" style="background-color: white"></div>
+        </div>
+      <div class="card bg-success">
+        <div class="card-header" style="background-color: whitesmoke"><span style="font-size: large">MCA-603</span></div>
+        <div class="card-body text-center">
+          <p class="card-text"></p>
+        </div>
+        <div class="card-footer" style="background-color: white"></div>
+      </div>
+      <div class="card bg-danger">
+        <div class="card-header" style="background-color: whitesmoke"><span style="font-size: large">MCA-604</span></div>
+        <div class="card-body text-center">
+          <p class="card-text"></p>
+        </div>
+        <div class="card-footer" style="background-color: white"></div>
+      </div>
+      </div>

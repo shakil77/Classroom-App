@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rosybrown;
+    background-image: url(register.jpg);
+}
+h2{
+    text-align: center;
+    
+}
+.Container{
+    max-width: 350px;
+    margin: auto;
+    text-align: center;
+    height: 450px;
+    background-color: peachpuff;
+    border: black;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+.form-contr1{
+    margin-bottom: 10px;
+    height: 40px;
+    text-size-adjust: 20px;
+    width: 250px;
+    text-align: center;
+    border: black;
+    
+}
+.button{
+    margin-top: 20px;
+    width: 250px;
+    height: 40px;
+    background-color: grey;
+    border: black
+    
+}
